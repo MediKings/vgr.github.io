@@ -188,7 +188,7 @@ section{
 .about .programme{
     background-color: goldenrod;
     border-radius: 20%;
-    padding: 30px;
+    /* padding: 10px; */
     padding-bottom: 0px;
 }
 .about hr{
@@ -239,6 +239,15 @@ footer .social i{
 
 #events .infos{
     margin-left: 20px;
+}
+
+#about .equipe .apotre img{
+    width: 300px;
+    height: auto;
+}
+
+#about .equipe .apotre h4{
+    margin-top: 50px;
 }
 
 #about .equipe img{
